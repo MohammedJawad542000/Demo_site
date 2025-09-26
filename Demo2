@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Page 2</title>
+</head>
+<body>
+  <h1>Welcome to Page 2</h1>
+  <p>You came here from Page 1.</p>
+  
+  <!-- Link back to Page 1 -->
+  <a href="page1.html">Go back to Page 1</a>
+</body>
+</html>
